@@ -1,0 +1,91 @@
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\bin\Debug\MIDproject.exe.config
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\bin\Debug\MIDproject.exe
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\bin\Debug\MIDproject.pdb
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\bin\Debug\Guna.UI2.dll
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.csproj.AssemblyReference.cache
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Addstudent.resources
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.DelStudent.resources
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Form1.resources
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Form2.resources
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Attendence.resources
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.CLOS.resources
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.UpdateStudent.resources
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Loading.resources
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Mainover.resources
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Properties.Resources.resources
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Student.resources
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.csproj.GenerateResource.cache
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.csproj.CoreCompileInputs.cache
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.csproj.CopyComplete
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.exe
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.pdb
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Rubrics.resources
+C:\Users\syedm\Desktop\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.RubricLvl.resources
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\bin\Debug\MIDproject.exe.config
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\bin\Debug\MIDproject.exe
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\bin\Debug\MIDproject.pdb
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\bin\Debug\Guna.UI2.dll
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.csproj.AssemblyReference.cache
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Addstudent.resources
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.DelStudent.resources
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Form1.resources
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Form2.resources
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Attendence.resources
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.CLOS.resources
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.RubricLvl.resources
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Rubrics.resources
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.UpdateStudent.resources
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Loading.resources
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Mainover.resources
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Properties.Resources.resources
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Student.resources
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.csproj.GenerateResource.cache
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.csproj.CoreCompileInputs.cache
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.csproj.CopyComplete
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.exe
+C:\Users\syedm\Desktop\db_mid_project\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.pdb
+D:\DB Final\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.csproj.AssemblyReference.cache
+D:\DB Final\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Form1.resources
+D:\DB Final\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Form2.resources
+D:\DB Final\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Loading.resources
+D:\DB Final\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Mainover.resources
+D:\DB Final\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.Properties.Resources.resources
+D:\DB Final\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.csproj.GenerateResource.cache
+D:\DB Final\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.csproj.CoreCompileInputs.cache
+D:\DB Final\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.exe
+D:\DB Final\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.pdb
+D:\DB Final\New folder\MIDproject\MIDproject\bin\Debug\MIDproject.exe.config
+D:\DB Final\New folder\MIDproject\MIDproject\bin\Debug\MIDproject.exe
+D:\DB Final\New folder\MIDproject\MIDproject\bin\Debug\MIDproject.pdb
+D:\DB Final\New folder\MIDproject\MIDproject\bin\Debug\Guna.UI2.dll
+D:\DB Final\New folder\MIDproject\MIDproject\obj\Debug\MIDproject.csproj.CopyComplete
+C:\Users\PMLS\Desktop\DB_lab\DB_finalProject\MIDproject\bin\Debug\MIDproject.exe.config
+C:\Users\PMLS\Desktop\DB_lab\DB_finalProject\MIDproject\bin\Debug\MIDproject.exe
+C:\Users\PMLS\Desktop\DB_lab\DB_finalProject\MIDproject\bin\Debug\MIDproject.pdb
+C:\Users\PMLS\Desktop\DB_lab\DB_finalProject\MIDproject\bin\Debug\Guna.UI2.dll
+C:\Users\PMLS\Desktop\DB_lab\DB_finalProject\MIDproject\obj\Debug\MIDproject.csproj.AssemblyReference.cache
+C:\Users\PMLS\Desktop\DB_lab\DB_finalProject\MIDproject\obj\Debug\MIDproject.Form1.resources
+C:\Users\PMLS\Desktop\DB_lab\DB_finalProject\MIDproject\obj\Debug\MIDproject.Form2.resources
+C:\Users\PMLS\Desktop\DB_lab\DB_finalProject\MIDproject\obj\Debug\MIDproject.Loading.resources
+C:\Users\PMLS\Desktop\DB_lab\DB_finalProject\MIDproject\obj\Debug\MIDproject.Mainover.resources
+C:\Users\PMLS\Desktop\DB_lab\DB_finalProject\MIDproject\obj\Debug\MIDproject.Properties.Resources.resources
+C:\Users\PMLS\Desktop\DB_lab\DB_finalProject\MIDproject\obj\Debug\MIDproject.csproj.GenerateResource.cache
+C:\Users\PMLS\Desktop\DB_lab\DB_finalProject\MIDproject\obj\Debug\MIDproject.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\Desktop\DB_lab\DB_finalProject\MIDproject\obj\Debug\MIDproject.csproj.Up2Date
+C:\Users\PMLS\Desktop\DB_lab\DB_finalProject\MIDproject\obj\Debug\MIDproject.exe
+C:\Users\PMLS\Desktop\DB_lab\DB_finalProject\MIDproject\obj\Debug\MIDproject.pdb
+C:\Users\syedm\Desktop\DB_finalProject\MIDproject\bin\Debug\MIDproject.exe.config
+C:\Users\syedm\Desktop\DB_finalProject\MIDproject\bin\Debug\MIDproject.exe
+C:\Users\syedm\Desktop\DB_finalProject\MIDproject\bin\Debug\MIDproject.pdb
+C:\Users\syedm\Desktop\DB_finalProject\MIDproject\bin\Debug\Guna.UI2.dll
+C:\Users\syedm\Desktop\DB_finalProject\MIDproject\obj\Debug\MIDproject.csproj.AssemblyReference.cache
+C:\Users\syedm\Desktop\DB_finalProject\MIDproject\obj\Debug\MIDproject.Form1.resources
+C:\Users\syedm\Desktop\DB_finalProject\MIDproject\obj\Debug\MIDproject.Form2.resources
+C:\Users\syedm\Desktop\DB_finalProject\MIDproject\obj\Debug\MIDproject.Loading.resources
+C:\Users\syedm\Desktop\DB_finalProject\MIDproject\obj\Debug\MIDproject.Mainover.resources
+C:\Users\syedm\Desktop\DB_finalProject\MIDproject\obj\Debug\MIDproject.Properties.Resources.resources
+C:\Users\syedm\Desktop\DB_finalProject\MIDproject\obj\Debug\MIDproject.csproj.GenerateResource.cache
+C:\Users\syedm\Desktop\DB_finalProject\MIDproject\obj\Debug\MIDproject.csproj.CoreCompileInputs.cache
+C:\Users\syedm\Desktop\DB_finalProject\MIDproject\obj\Debug\MIDproject.csproj.CopyComplete
+C:\Users\syedm\Desktop\DB_finalProject\MIDproject\obj\Debug\MIDproject.exe
+C:\Users\syedm\Desktop\DB_finalProject\MIDproject\obj\Debug\MIDproject.pdb
