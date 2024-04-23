@@ -120,11 +120,12 @@
             this.guna2Button6.Image = ((System.Drawing.Image)(resources.GetObject("guna2Button6.Image")));
             this.guna2Button6.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.guna2Button6.ImageOffset = new System.Drawing.Point(8, 0);
-            this.guna2Button6.Location = new System.Drawing.Point(-1, 334);
+            this.guna2Button6.ImageSize = new System.Drawing.Size(25, 25);
+            this.guna2Button6.Location = new System.Drawing.Point(-1, 335);
             this.guna2Button6.Name = "guna2Button6";
             this.guna2Button6.Size = new System.Drawing.Size(205, 40);
             this.guna2Button6.TabIndex = 6;
-            this.guna2Button6.Text = "Rubric Level";
+            this.guna2Button6.Text = "Notifications";
             this.guna2Button6.TextOffset = new System.Drawing.Point(8, 0);
             this.guna2Button6.Click += new System.EventHandler(this.guna2Button6_Click);
             // 
@@ -141,32 +142,33 @@
             this.guna2Button5.Image = ((System.Drawing.Image)(resources.GetObject("guna2Button5.Image")));
             this.guna2Button5.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.guna2Button5.ImageOffset = new System.Drawing.Point(8, 0);
-            this.guna2Button5.Location = new System.Drawing.Point(0, 290);
+            this.guna2Button5.ImageSize = new System.Drawing.Size(35, 35);
+            this.guna2Button5.Location = new System.Drawing.Point(0, 156);
             this.guna2Button5.Name = "guna2Button5";
             this.guna2Button5.Size = new System.Drawing.Size(205, 40);
             this.guna2Button5.TabIndex = 5;
-            this.guna2Button5.Text = "Rubrics";
+            this.guna2Button5.Text = "Home";
             this.guna2Button5.TextOffset = new System.Drawing.Point(8, 0);
             this.guna2Button5.Click += new System.EventHandler(this.guna2Button5_Click);
             // 
             // guna2Button4
             // 
             this.guna2Button4.CustomBorderThickness = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.guna2Button4.FillColor = System.Drawing.Color.Transparent;
+            this.guna2Button4.FillColor = System.Drawing.Color.MediumTurquoise;
             this.guna2Button4.Font = new System.Drawing.Font("Bahnschrift", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2Button4.ForeColor = System.Drawing.Color.Black;
             this.guna2Button4.HoverState.BorderColor = System.Drawing.Color.Navy;
-            this.guna2Button4.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(12)))), ((int)(((byte)(83)))), ((int)(((byte)(251)))));
+            this.guna2Button4.HoverState.FillColor = System.Drawing.Color.Red;
             this.guna2Button4.HoverState.ForeColor = System.Drawing.Color.White;
             this.guna2Button4.HoverState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image2")));
             this.guna2Button4.Image = ((System.Drawing.Image)(resources.GetObject("guna2Button4.Image")));
             this.guna2Button4.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.guna2Button4.ImageOffset = new System.Drawing.Point(8, 0);
-            this.guna2Button4.Location = new System.Drawing.Point(0, 380);
+            this.guna2Button4.Location = new System.Drawing.Point(-1, 714);
             this.guna2Button4.Name = "guna2Button4";
             this.guna2Button4.Size = new System.Drawing.Size(205, 40);
             this.guna2Button4.TabIndex = 4;
-            this.guna2Button4.Text = "Assessment";
+            this.guna2Button4.Text = "Logout";
             this.guna2Button4.TextOffset = new System.Drawing.Point(8, 0);
             // 
             // guna2Button3
@@ -182,11 +184,12 @@
             this.guna2Button3.Image = ((System.Drawing.Image)(resources.GetObject("guna2Button3.Image")));
             this.guna2Button3.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.guna2Button3.ImageOffset = new System.Drawing.Point(8, 0);
-            this.guna2Button3.Location = new System.Drawing.Point(0, 151);
+            this.guna2Button3.ImageSize = new System.Drawing.Size(35, 35);
+            this.guna2Button3.Location = new System.Drawing.Point(0, 199);
             this.guna2Button3.Name = "guna2Button3";
             this.guna2Button3.Size = new System.Drawing.Size(205, 40);
             this.guna2Button3.TabIndex = 3;
-            this.guna2Button3.Text = "Student";
+            this.guna2Button3.Text = "Department";
             this.guna2Button3.TextOffset = new System.Drawing.Point(8, 0);
             this.guna2Button3.Click += new System.EventHandler(this.guna2Button3_Click_1);
             // 
@@ -203,11 +206,12 @@
             this.guna2Button2.Image = ((System.Drawing.Image)(resources.GetObject("guna2Button2.Image")));
             this.guna2Button2.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.guna2Button2.ImageOffset = new System.Drawing.Point(8, 0);
-            this.guna2Button2.Location = new System.Drawing.Point(0, 196);
+            this.guna2Button2.ImageSize = new System.Drawing.Size(40, 40);
+            this.guna2Button2.Location = new System.Drawing.Point(0, 244);
             this.guna2Button2.Name = "guna2Button2";
             this.guna2Button2.Size = new System.Drawing.Size(205, 40);
             this.guna2Button2.TabIndex = 2;
-            this.guna2Button2.Text = "Attendence";
+            this.guna2Button2.Text = "Medicine";
             this.guna2Button2.TextOffset = new System.Drawing.Point(8, 0);
             this.guna2Button2.Click += new System.EventHandler(this.guna2Button2_Click);
             // 
@@ -216,9 +220,9 @@
             this.guna2PictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.guna2PictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox1.Image")));
             this.guna2PictureBox1.ImageRotate = 0F;
-            this.guna2PictureBox1.Location = new System.Drawing.Point(1, 9);
+            this.guna2PictureBox1.Location = new System.Drawing.Point(12, 3);
             this.guna2PictureBox1.Name = "guna2PictureBox1";
-            this.guna2PictureBox1.Size = new System.Drawing.Size(183, 62);
+            this.guna2PictureBox1.Size = new System.Drawing.Size(183, 150);
             this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.guna2PictureBox1.TabIndex = 0;
             this.guna2PictureBox1.TabStop = false;
@@ -253,11 +257,12 @@
             this.guna2Button8.Image = ((System.Drawing.Image)(resources.GetObject("guna2Button8.Image")));
             this.guna2Button8.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.guna2Button8.ImageOffset = new System.Drawing.Point(8, 0);
-            this.guna2Button8.Location = new System.Drawing.Point(0, 242);
+            this.guna2Button8.ImageSize = new System.Drawing.Size(35, 35);
+            this.guna2Button8.Location = new System.Drawing.Point(0, 290);
             this.guna2Button8.Name = "guna2Button8";
             this.guna2Button8.Size = new System.Drawing.Size(205, 40);
             this.guna2Button8.TabIndex = 1;
-            this.guna2Button8.Text = "CLOS";
+            this.guna2Button8.Text = "Patient";
             this.guna2Button8.TextOffset = new System.Drawing.Point(8, 0);
             this.guna2Button8.Click += new System.EventHandler(this.guna2Button8_Click);
             // 
