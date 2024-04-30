@@ -89,3 +89,19 @@ C:\Users\syedm\Desktop\DB_finalProject\MIDproject\obj\Debug\MIDproject.csproj.Co
 C:\Users\syedm\Desktop\DB_finalProject\MIDproject\obj\Debug\MIDproject.csproj.CopyComplete
 C:\Users\syedm\Desktop\DB_finalProject\MIDproject\obj\Debug\MIDproject.exe
 C:\Users\syedm\Desktop\DB_finalProject\MIDproject\obj\Debug\MIDproject.pdb
+D:\UET BSCS\DB\final project\Db_Final\DB_finalProject\MIDproject\bin\Debug\MIDproject.exe.config
+D:\UET BSCS\DB\final project\Db_Final\DB_finalProject\MIDproject\bin\Debug\MIDproject.exe
+D:\UET BSCS\DB\final project\Db_Final\DB_finalProject\MIDproject\bin\Debug\MIDproject.pdb
+D:\UET BSCS\DB\final project\Db_Final\DB_finalProject\MIDproject\bin\Debug\Guna.UI2.dll
+D:\UET BSCS\DB\final project\Db_Final\DB_finalProject\MIDproject\obj\Debug\MIDproject.csproj.AssemblyReference.cache
+D:\UET BSCS\DB\final project\Db_Final\DB_finalProject\MIDproject\obj\Debug\MIDproject.csproj.SuggestedBindingRedirects.cache
+D:\UET BSCS\DB\final project\Db_Final\DB_finalProject\MIDproject\obj\Debug\MIDproject.Form1.resources
+D:\UET BSCS\DB\final project\Db_Final\DB_finalProject\MIDproject\obj\Debug\MIDproject.Form2.resources
+D:\UET BSCS\DB\final project\Db_Final\DB_finalProject\MIDproject\obj\Debug\MIDproject.Loading.resources
+D:\UET BSCS\DB\final project\Db_Final\DB_finalProject\MIDproject\obj\Debug\MIDproject.Mainover.resources
+D:\UET BSCS\DB\final project\Db_Final\DB_finalProject\MIDproject\obj\Debug\MIDproject.Properties.Resources.resources
+D:\UET BSCS\DB\final project\Db_Final\DB_finalProject\MIDproject\obj\Debug\MIDproject.csproj.GenerateResource.cache
+D:\UET BSCS\DB\final project\Db_Final\DB_finalProject\MIDproject\obj\Debug\MIDproject.csproj.CoreCompileInputs.cache
+D:\UET BSCS\DB\final project\Db_Final\DB_finalProject\MIDproject\obj\Debug\MIDproject.csproj.CopyComplete
+D:\UET BSCS\DB\final project\Db_Final\DB_finalProject\MIDproject\obj\Debug\MIDproject.exe
+D:\UET BSCS\DB\final project\Db_Final\DB_finalProject\MIDproject\obj\Debug\MIDproject.pdb

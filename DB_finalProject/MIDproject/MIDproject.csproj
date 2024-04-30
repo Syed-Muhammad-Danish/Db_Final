@@ -55,6 +55,42 @@
     <Compile Include="BL\doctor.cs" />
     <Compile Include="BL\user.cs" />
     <Compile Include="Configuration.cs" />
+    <Compile Include="UI\DoctorUI\DoCheckup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\DoctorUI\DoCheckup.Designer.cs">
+      <DependentUpon>DoCheckup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DoctorUI\DoctorMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\DoctorUI\DoctorMain.Designer.cs">
+      <DependentUpon>DoctorMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DoctorUI\Do_DIscharge.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\DoctorUI\Do_DIscharge.Designer.cs">
+      <DependentUpon>Do_DIscharge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DoctorUI\Do_Operate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\DoctorUI\Do_Operate.Designer.cs">
+      <DependentUpon>Do_Operate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DoctorUI\Give_Prescription.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\DoctorUI\Give_Prescription.Designer.cs">
+      <DependentUpon>Give_Prescription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DoctorUI\Manage Appointments.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\DoctorUI\Manage Appointments.Designer.cs">
+      <DependentUpon>Manage Appointments.cs</DependentUpon>
+    </Compile>
     <Compile Include="UI\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -81,6 +117,24 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="UI\DoctorUI\DoCheckup.resx">
+      <DependentUpon>DoCheckup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\DoctorUI\DoctorMain.resx">
+      <DependentUpon>DoctorMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\DoctorUI\Do_DIscharge.resx">
+      <DependentUpon>Do_DIscharge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\DoctorUI\Do_Operate.resx">
+      <DependentUpon>Do_Operate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\DoctorUI\Give_Prescription.resx">
+      <DependentUpon>Give_Prescription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\DoctorUI\Manage Appointments.resx">
+      <DependentUpon>Manage Appointments.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UI\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
